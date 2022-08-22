@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-Olá, seja bem vindo ao mmeu perfil.
+Olá, seja bem vindo ao meu perfil.
 
 #### Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
