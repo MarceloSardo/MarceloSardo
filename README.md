@@ -10,7 +10,9 @@ Olá, seja bem vindo ao meu perfil.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloSardo&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSardo&repo=devweek.github.io&theme=nightowl&show_icons=true)](https://github.com/MarceloSardo/devweek.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSardo&repo=nlw&theme=nightowl&show_icons=true)](https://github.com/MarceloSardo/nlw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSardo&repo=devweek.github.io&theme=nightowl&show_icons=true)](https://github.com/MarceloSardo/devweek.github.io) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSardo&repo=nlw&theme=nightowl&show_icons=true)](https://github.com/MarceloSardo/nlw)
 
 #### Contatos
 [<img src= 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](linkedin.com/in/marcelo-lopes)
