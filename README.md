@@ -11,7 +11,7 @@ Olá, seja bem vindo ao meu perfil.
 
 #### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSardo&repo=CalcGorjeta&theme=nightowl&show_icons=true)](https://github.com/MarceloSardo/CalcGorjeta)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSardo&repo=nlw&theme=nightowl&show_icons=true)](https://github.com/MarceloSardo/nlw)
 
