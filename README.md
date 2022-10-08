@@ -17,6 +17,8 @@ Olá, seja bem vindo ao meu perfil.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSardo&repo=devweek.github.io&theme=nightowl&show_icons=true)](https://github.com/MarceloSardo/devweek.github.io) 
 
+#### Tecnologias
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSardo&layout=compact&theme=nightowl&show_icons=true)](https://github.com/MarceloSardo/github-readme-stats)
 
 #### Contatos
