@@ -26,6 +26,6 @@ Olá, seja bem vindo ao meu perfil.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSardo&repo=devweek.github.io&theme=nightowl&show_icons=true)](https://github.com/MarceloSardo/devweek.github.io) 
 
 #### Contatos
-[<img src= 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](linkedin.com/in/marcelo-lopes)
+[<img src= 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/marcelo-lopes-696a2117a/)
 
 
